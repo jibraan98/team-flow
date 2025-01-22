@@ -4,4 +4,4 @@ const ChannelIdPage = () => {
   )
 }
 
-export default ChannelIdPage
+export default ChannelIdPage;
